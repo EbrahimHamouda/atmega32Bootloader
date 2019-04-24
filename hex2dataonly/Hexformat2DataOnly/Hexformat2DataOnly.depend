@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1556084562 source:c:\users\ebrah\desktop\bootloader\hex2dataonly\hexformat2dataonly\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"parse_struct.h"
+
+1554291989 c:\users\ebrah\desktop\bootloader\hex2dataonly\hexformat2dataonly\parse_struct.h
+
+1556084562 source:c:\users\ebrah\desktop\bootloader\bootloaderforatmega32\hex2dataonly\hexformat2dataonly\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"parse_struct.h"
+
+1554291989 c:\users\ebrah\desktop\bootloader\bootloaderforatmega32\hex2dataonly\hexformat2dataonly\parse_struct.h
+
