@@ -15,7 +15,7 @@
 #include "F:\embedded\Work_space\2_Drivers_atmega32\SDK_AVR_ATMEGA32\SERVICE\comm_RX\commRX.h"
 
 #define PAGESIZE      128
-#define APP_SIZE      146
+#define APP_SIZE      128
 #define START_ADD     0x00
 
 // this arry should be deliverd by uart channel >> i can't simulate this in Atmel stud
