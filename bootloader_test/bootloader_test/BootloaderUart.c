@@ -29,6 +29,7 @@ uint8_t buf[PAGESIZE]; // buffer to be transmited to flash
 int main(void)
 {
 	uint16 i;
+	integ = APP_SIZE/PAGESIZE;
 	remain=APP_SIZE-(PAGESIZE*integ);
 	if(integ)
 	{
